@@ -1,4 +1,5 @@
-
+-** Open the command prompt run python manage.py runserver**
+- **OUTPUT**:
 
 
 
